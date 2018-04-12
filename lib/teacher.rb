@@ -10,7 +10,7 @@ class Teacher < User
   end
 
   def teach
-     return KNOWLEDGE
+     return KNOWLEDGE.sample
   end
 
 end
