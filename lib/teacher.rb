@@ -9,7 +9,7 @@ class Teacher < User
     @last_name = last_name
   end
 
-  def teach
+  def self.teach
      return KNOWLEDGE
   end
 
