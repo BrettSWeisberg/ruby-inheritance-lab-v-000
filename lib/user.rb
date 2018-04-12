@@ -3,7 +3,4 @@ class User
 
 
 
-
-
-
 end
