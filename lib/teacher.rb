@@ -10,7 +10,7 @@ class Teacher < User
   end
 
   def teach
-     student.knowledge
+     knowledge
   end
 
 end
